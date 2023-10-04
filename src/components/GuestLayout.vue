@@ -1,5 +1,5 @@
 <template>
-<h1>Meal List</h1>
+LoginPage
 </template>
-<script>
+<script setup>
 </script>
